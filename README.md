@@ -25,7 +25,7 @@ key_words = ["funny", "example1", "example2"]
 ```
 
 Here, you can also modify the words that will trigger your bot. 
-The file `quotes.txt` is the file the bot reads when searching for a response. Modify file this accordingly.
+The file `quotes.txt` is what the bot reads when searching for a response. Modify file this accordingly.
 
 ## Finally, run your discord bot:
 ```shell
